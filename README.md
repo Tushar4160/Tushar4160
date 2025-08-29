@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">A passionate Web Designer from Bangladesh.</h3>
+<h3 align="center">A passionate Web & Logo Designer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tushar4160&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar4160" /> </p>
 
-<p align="left">Web & Logo Design I design websites and logos that not only look<br> good but work hard for your brand. My web design is clean, responsive, and easy to use — built with both your audience and goals in mind. When it comes to logos, I focus on creating something simple, memorable, and true to your brand’s personality. Whether you're starting fresh or giving your brand a new look, I’ll help you create visuals that feel right and make a strong impression online.</p>
+<p align="left"> <h2>Web & Logo Design</h2><br> I design websites and logos that not only look<br> good but work hard for your brand. My web design is clean, responsive, and easy to use — built with both your audience and goals in mind. When it comes to logos, I focus on creating something simple, memorable, and true to your brand’s personality. Whether you're starting fresh or giving your brand a new look, I’ll help you create visuals that feel right and make a strong impression online.</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br>
 
