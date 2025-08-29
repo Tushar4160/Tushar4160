@@ -7,8 +7,8 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asdfa&show_icons=true&locale=en&layout=compact" alt="asdfa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tushar4160&show_icons=true&locale=en&layout=compact" alt="Tushar4160" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asdfa&show_icons=true&locale=en" alt="asdfa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tushar4160&show_icons=true&locale=en" alt="Tushar4160" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asdfa&" alt="asdfa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar4160&" alt="Tushar4160" /></p>
