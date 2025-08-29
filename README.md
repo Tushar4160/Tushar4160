@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate Web & Logo Designer from Bangladesh.</h3>
 
-<p align="left" justify-content="center"> <img src="https://komarev.com/ghpvc/?username=Tushar4160&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar4160" /> </p>
+<p align="left" display="flex"> <img src="https://komarev.com/ghpvc/?username=Tushar4160&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar4160" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br>
 
